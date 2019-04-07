@@ -1,5 +1,7 @@
 # Conference-database-web-application
 Snapshots of the website can be seen below. 
+Personally worked on home.php, Committees.php, Finances.php, 
+Attendees.php, and edit_sub/add_student.php
 
 ![a](https://user-images.githubusercontent.com/46120322/55686992-cf71ef00-5935-11e9-9e10-3f1352548bee.PNG)
 ![b](https://user-images.githubusercontent.com/46120322/55686993-cf71ef00-5935-11e9-9254-192dac983c2b.png)
